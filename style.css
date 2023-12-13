@@ -1,0 +1,218 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+}
+
+.header {
+    background-color: #3e64ff;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Add more styles as needed */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+}
+
+.header {
+    background-color: #3e64ff;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+/* Navigation Styles */
+nav {
+    margin-top: 20px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #555;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+/* About Section Styles */
+#about {
+    margin-top: 40px;
+}
+
+#about p {
+    line-height: 1.6;
+}
+
+/* Gallery Section Styles */
+#gallery {
+    margin-top: 40px;
+}
+
+/* Services Section Styles */
+#services {
+    margin-top: 40px;
+}
+
+#services ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#services li {
+    margin-bottom: 10px;
+}
+
+/* Contact Section Styles */
+#contact {
+    margin-top: 40px;
+}
+
+form {
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #3e64ff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #1e3e99;
+}
+/* styles/style.css */
+
+#gallery {
+    margin-top: 40px;
+}
+
+.slideshow-container {
+    max-width: 800px;
+    position: relative;
+    margin: auto;
+}
+
+.gallery-slide {
+    display: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+/* Add fade animation to the slideshow */
+.fade {
+    animation: fade 5s ease-in-out infinite;
+}
+
+@keyframes fade {
+    from {
+        opacity: 0.4;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+/* styles/style.css */
+
+/* ... Your existing styles ... */
+
+/* Merchandise Shop Styles */
+#merchandise {
+    margin-top: 40px;
+}
+
+/* styles/style.css */
+
+/* ... Your existing styles ... */
+
+/* Merchandise Shop Styles */
+#merchandise {
+    margin-top: 40px;
+}
+
+.merchandise-item {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.merchandise-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.merchandise-item h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.merchandise-item p {
+    color: #555;
+}
+
+.merchandise-item span {
+    display: block;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.merchandise-item button {
+    background-color: #3e64ff;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+
+.merchandise-item button:hover {
+    background-color: #1e3e99;
+}
